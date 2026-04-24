@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="printables/banner.jpg" alt="O Dilema de Casmurro" width="600"/>
+  <img src="printables/title.png" alt="O Dilema de Casmurro" width="400"/>
+
+  # O DILEMA DE CASMURRO
 
   *Um board game investigativo sobre memória, ciúme e a obra de Machado de Assis.*
 
@@ -21,7 +23,7 @@
 ## 📦 Componentes do Jogo
 
 <div align="center">
-  <img src="printables/componentes.jpg" alt="Visão Geral dos Componentes" width="600"/>
+  <img src="printables/componentes.png" alt="Visão Geral dos Componentes" width="600"/>
 </div>
 
 Para iniciar a sua jornada pelas memórias de Bentinho, você precisará imprimir e organizar os seguintes itens:
@@ -48,10 +50,20 @@ Cada turno é composto por duas etapas principais:
 
 ---
 
-## 🎭 Os Personagens
+## Os Personagens
 
 <div align="center">
-  <img src="printables/elenco.jpg" alt="Personagens: Bentinho, Sancha, Capitu, Escobar, Dona Glória e José Dias" width="600"/>
+  <img src="printables/badges/bentinho.png" alt="Bentinho" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="printables/badges/capitu.png" alt="Capitu" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="printables/badges/escobar.png" alt="Escobar" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="printables/badges/sancha.png" alt="Sancha" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="printables/badges/donagloria.png" alt="Dona Glória" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="printables/badges/josedias.png" alt="José Dias" width="200"/>
 </div>
 
 As interações no tabuleiro são mediadas pelas personalidades e históricos dos personagens. Cada visita desencadeia gatilhos emocionais específicos na mente de Bentinho, forçando os jogadores a equilibrarem a busca por memórias com a estabilidade psicológica do protagonista.
