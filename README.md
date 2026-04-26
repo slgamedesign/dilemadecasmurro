@@ -53,7 +53,7 @@ Cada turno é composto por duas etapas principais:
 ## Os Personagens
 
 <div align="center">
-  <img src="elenco1.png" alt="elenco" width="600"/>
+  <img src="printables/personagens.png" alt="elenco" width="600"/>
  
 </div>
 
