@@ -53,17 +53,8 @@ Cada turno é composto por duas etapas principais:
 ## Os Personagens
 
 <div align="center">
-  <img src="printables/badges/bentinho.png" alt="Bentinho" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="printables/badges/capitu.png" alt="Capitu" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="printables/badges/escobar.png" alt="Escobar" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="printables/badges/sancha.png" alt="Sancha" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="printables/badges/donagloria.png" alt="Dona Glória" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="printables/badges/josedias.png" alt="José Dias" width="200"/>
+  <img src="elenco1.png" alt="elenco" width="600"/>
+ 
 </div>
 
 As interações no tabuleiro são mediadas pelas personalidades e históricos dos personagens. Cada visita desencadeia gatilhos emocionais específicos na mente de Bentinho, forçando os jogadores a equilibrarem a busca por memórias com a estabilidade psicológica do protagonista.
