@@ -73,7 +73,25 @@ A arquitetura do projeto é multidisciplinar e *phygital*, utilizando as seguint
 ### 🖨️ Faça o Download e Jogue!
 O manual completo e todos os arquivos necessários para impressão em alta qualidade estão disponíveis na pasta `printables` deste repositório.
 
+<div align="center">
+  
 ➡️ **[BAIXAR O LIVRO DE REGRAS COMPLETO E ARQUIVOS (PDF)](printables/)**
+
+</div>
+
+## 📱 Aplicativo Complementar (Companion App)
+
+Para uma imersão completa no universo phygital de **O Dilema de Casmurro**, o jogo conta com um aplicativo nativo para Android. 
+
+Ele atua como o motor de sorte (RNG) para as mecânicas que exigem o lançamento de uma moeda, trazendo física 3D e feedback tátil para a mesa.
+
+<div align="center">
+
+[![Baixar Moeda Capitolina](https://img.shields.io/badge/Baixar_App-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/vargaskaue/moedacapitolina/releases)
+
+🔗 [Acesse o código-fonte e o repositório oficial do aplicativo aqui](https://github.com/vargaskaue/moedacapitolina)
+
+</div>
 
 ---
 
